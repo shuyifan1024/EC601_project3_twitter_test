@@ -1,5 +1,10 @@
 # EC601_project3_twitter_test
 
+Project 3 Twitter API Test
+
+This assignment will test the Twitter API in the Project 2 assignment. The test function mainly tests the number of input searches, the content of input keywords, the quantity of output content, the correctness of output content, and the repetition of output content. These test contents are relatively close to the real use from the point of view of product design.
+
+
 test the input of testing number-'input_number_test' function
  
 When we enter the test quantity, we may manually enter the error.  People should have typed a positive number, but they might have typed a letter or some other non-positive number.  This could cause the search to crash.So the first thing in this test program is to test the correctness of the input test quantity.
